@@ -47,7 +47,8 @@ text-align: center;
 background-color: #e5e5e5;
 height: 700px;}
 
-.wrap{padding-left: 71px;}
+.wrap{padding-left: 71px;
+padding-top: 60px;}
 
 .news{background-color: #BD9554;
 display: inline-block;
@@ -98,6 +99,89 @@ bottom: 270px;}
 color: #C3181E;
 left: 360px;
 bottom: 165px;}
+
+footer{background-color: #191919;
+height: 350px;}
+
+
+.toprow ul{float: right;
+display: inline-block;
+border-bottom: 2px solid #E1CD7F;
+color: white;}
+
+.toprow ul li{float: left;
+	background-color: #191919;
+	color: white;
+display: inline-block;
+padding: 0 100px;}
+
+.visit {float: left;
+	display: inline-block;
+	padding-top: 8%;
+	padding-left: 20%;
+	list-style-type: none;
+	color: green;}
+
+.visit ul li{list-style-type: none;
+}
+
+.visit a{color: grey;
+	
+text-decoration: none;}
+
+.visit a:hover {color: white;}
+
+.explore {float: left;
+	padding-top: 6.5%;
+	padding-left: 5%;
+	list-style-type: none;
+	color: green;
+	display: inline-block;
+}
+
+.explore ul li {list-style-type: none;}
+
+.explore a {color: grey;
+text-decoration: none;}
+
+.explore a:hover {color: white;}
+
+.join {float: left;
+	padding-top: 6.5%;
+	padding-left: 5%;
+	list-style-type: none;
+	color: green;
+	display: inline-block;
+}
+
+.join ul li {list-style-type: none;}
+
+.join a {color: grey;
+text-decoration: none;}
+
+.join a:hover {color: white;}
+
+
+
+.donate {float: left;
+	padding-top: 6.5%;
+
+	padding-left: 5%;
+	list-style-type: none;
+	color: green;
+	display: inline-block;
+}
+
+.donate ul li {list-style-type: none;}
+
+.donate a {color: grey;
+text-decoration: none;}
+
+.donate a:hover {color: white;}
+
+h5{font-family: 'PT Serif', serif;}
+
+a{font-family: 'Slabo 27px', serif;}
 
 
 
